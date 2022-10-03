@@ -1,0 +1,23 @@
+body {
+    margin: 20px;
+}
+
+ul {
+    padding:0px;
+}
+
+button {
+    min-width: 60px;
+    cursor: pointer;
+}
+input[type='checkbox'] {
+    cursor: pointer;
+}
+label {
+    cursor: pointer;
+    width: 100%;
+}
+label.disabled {
+    color: silver;
+    font-style: 
+}
